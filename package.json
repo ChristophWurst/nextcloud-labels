@@ -1,0 +1,23 @@
+{
+  "name": "nextcloud-labels",
+  "version": "1.0.0",
+  "description": "Generic GitHub labels for Nextcloud apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristophWurst/nextcloud-labels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristophWurst/nextcloud-labels/issues"
+  },
+  "homepage": "https://github.com/ChristophWurst/nextcloud-labels#readme",
+  "dependencies": {
+    "github-labels": "^0.8.0"
+  }
+}
