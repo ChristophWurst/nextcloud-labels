@@ -1,0 +1,15 @@
+[
+    {"name": "bug", "color": "ee0701"},
+    {"name": "duplicate", "color": "cccccc"},
+    {"name": "enhancement", "color": "84b6eb"},
+    {"name": "0. to triage", "color": "0052cc"},
+    {"name": "1. to develop", "color": "0052cc"},
+    {"name": "2. developing", "color": "0052cc"},
+    {"name": "3. to review", "color": "0052cc"},
+    {"name": "4. to release", "color": "0052cc"},
+    {"name": "blocked", "color": "f9d0c4"},
+    {"name": "discussion", "color": "fbca04"},
+    {"name": "duplicate", "color": "000000"},
+    {"name": "needs info", "color": "006b75"},
+    {"name": "priority", "color": "ff00ff"}
+]
