@@ -3,6 +3,7 @@ ChristophWurst/nextcloud-axios
 ChristophWurst/nextcloud-server
 ChristophWurst/nextcloud_sentry
 ChristophWurst/twofactor_admin
+nextcloud/recommendations
 nextcloud/twofactor_gateway
 nextcloud/twofactor_totp
 nextcloud/twofactor_u2f
